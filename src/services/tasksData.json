@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "done": true,
+    "title": "Do this",
+    "description": "Have to to do this",
+    "priority": "low"
+  },
+  {
+    "id": 2,
+    "done": true,
+    "title": "Do that",
+    "description": "Have to to do that",
+    "priority": "medium"
+  },
+  {
+    "id": 3,
+    "done": false,
+    "title": "Eat",
+    "description": "Have to to eat",
+    "priority": "high"
+  }
+]
